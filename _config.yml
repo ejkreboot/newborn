@@ -1,3 +1,10 @@
 title: Newborn Care Quick Reference
 description: Essentials of newborn care in a succinct, interlinked format.
 theme: jekyll-theme-dinky
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      stylesheet: "css/style.css"
