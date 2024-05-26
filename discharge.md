@@ -10,4 +10,5 @@ Infants are ready to discharge when they meet the following criteria:
 - [ ] Completed 2 feedings
 - [ ] Urinated multiple times and stooled once
 - [ ] Family education complete
-- [ ] Hearing, metabolic, and pulse oximetry screenings complete (and follow up arranged, if indicated).
+- [ ] Hearing, metabolic, and pulse oximetry screenings complete. and follow up arranged, if indicated.
+- [ ] Hyperbilirubinemia screening complete, and follow up arranged if indicated.
