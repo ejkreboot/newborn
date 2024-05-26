@@ -1,4 +1,17 @@
 @import url("https://fonts.googleapis.com/css?family=Arvo:400,700,400italic");
+
+.task-list-item {
+  list-style-type: none;
+  padding-left: 20px;
+  text-indent: -26px;
+  line-height: 20px;
+  padding-bottom: 10px;
+}
+
+.task-list-item-checkbox {
+  margin-right: 8px;
+}
+
 .highlight table td{
     padding:5px
 }
@@ -460,7 +473,7 @@ footer{
     bottom:10px;
     padding-left:50px
 }
-@media print, screen and (max-width: 960px){
+@media print, screen and (max-width: 960px){  
     div.wrapper{
         width:auto;
         margin:0
@@ -529,14 +542,3 @@ footer{
     }
 }
  
-.task-list-item {
-    list-style-type: none;
-    padding-left: 20px;
-    text-indent: -26px;
-    line-height: 20px;
-    padding-bottom: 10px;
-  }
-  
-  .task-list-item-checkbox {
-    margin-right: 8px;
-  }
