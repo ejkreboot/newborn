@@ -1,9 +1,3 @@
 title: Newborn Care Quick Reference
 description: Essentials of newborn care in a succinct, interlinked format.
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      stylesheet: "css/nbstyle.css"
+theme: jekyll-theme-dinky
