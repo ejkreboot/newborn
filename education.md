@@ -10,7 +10,7 @@ Parents of newborns should receive brief, clear anticipatory guidance prior to d
 - Stooling: frequency and appearance can be widely variable. Call PCP if stooling small hard pellets or if there is any blood in the stool.
 - Feeding
     - Feed on demand, every 2-3 hours.
-    - Do not allow infant to sleep through more than 1 feeding.
+    - Do not allow infant to sleep through feedings for first 2 weeks (or until infant regains birthweight).
     - Do not give newborns water, honey, or any thing else to eat or drink other than breastmilk or formula.
 - When to seek care:
     - Decreased urination

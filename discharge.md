@@ -20,6 +20,6 @@ In addition to the above criteria, late preterm infants should have a car seat t
 
 Typically, it takes the better part of 48 hours to achieve all of these goals. If a patient is discharged prior to 48 hours, PCP follow up within 48 hours of discharge must be assured. 
 
-Certain infants should not be discharged prior to 48 hours even if these criteria are met. These include late preterm infants, 
+Certain infants should not be discharged prior to 48 hours even if these criteria are met. These include late preterm infants, and infants who require 48 hours of observation due to concerns for sepsis.
 
 
