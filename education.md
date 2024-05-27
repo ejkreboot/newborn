@@ -8,6 +8,10 @@ Parents of newborns should receive brief, clear anticipatory guidance prior to d
 
 — Urination frequency: At least 4 wet diapers per 24 hours initially, increasing to at least 6 wet diapers per 24 hours over the coming 3-4 days. 
 - Stooling: frequency and appearance can be widely variable. Call PCP if stooling small hard pellets or if there is any blood in the stool.
+- Feeding
+    - Feed on demand, every 2-3 hours.
+    - Do not allow infant to sleep through more than 1 feeding.
+    - Do not give newborns water, honey, or any thing else to eat or drink other than breastmilk or formula.
 - When to seek care:
     - Decreased urination
     - Poor feeding
@@ -19,6 +23,8 @@ Parents of newborns should receive brief, clear anticipatory guidance prior to d
 — Keeping the infant safe
     - Car seat use
     - Supine sleeping alone, on a firm, flat surface free of smothering hazards.
+    - Avoid exposure to second hand smoke.
+    - Avoid prolonged carseat use for late preterm infants (i.e. only use carseat for travel, not as a pacifier)
     - Visitors should wash their hands or use hand sanitizer prior to touching or holding the baby.
 - Soothing an infant
     - The "Five S's": swaddle, shush, sidelying, swing, suck. 

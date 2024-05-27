@@ -7,4 +7,5 @@ This resource was last updated on May 25, 2024.
 ## Contents
 
 [Discharge readiness](discharge.md)
+
 [Parent education](education.md)
